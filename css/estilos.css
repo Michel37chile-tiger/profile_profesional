@@ -1,18 +1,38 @@
 head { color: rgb(49, 45, 45); }
 body {
     color: rgb(11, 15, 27);
-    background-color: rgb(30, 73, 129);
+    background-color: teal;
 }
 
-
 .caja-negra{
-    background-color: black;
+    background-color: teal;
     width: 200;
     height: auto;
 }
 
-
 .caja-negra img{
-    width: 130px;
-    height: 130px;
+    width: 230px;
+    height: auto;
+}
+
+/*.caja-verde{
+    background-color: teal;
+    width: 200px;
+    height: auto;
+}
+*/
+.caja-verde{
+    width: 100px;
+    height: auto;
+}
+
+/*.caja-naranja{
+    background-color: teal;
+    width: 200;
+    height: auto;
+}
+*/
+.caja-naranja{
+    width: 80px;
+    height: auto;
 }
