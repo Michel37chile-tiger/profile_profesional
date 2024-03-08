@@ -1,0 +1,18 @@
+head { color: rgb(49, 45, 45); }
+body {
+    color: rgb(11, 15, 27);
+    background-color: rgb(30, 73, 129);
+}
+
+
+.caja-negra{
+    background-color: black;
+    width: 200;
+    height: auto;
+}
+
+
+.caja-negra img{
+    width: 130px;
+    height: 130px;
+}
